@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Variables for GitHub account setup
-GITHUB_USERNAME="Afeez-AA"    # Replace with your GitHub username
-GITHUB_EMAIL="afeezadeboyee@gmail.com"  # Replace with your GitHub email
+GITHUB_USERNAME="your_username"    # Replace with your GitHub username
+GITHUB_EMAIL="your_email@example.com" # Replace with your GitHub email
 
 # Update and install necessary packages
 sudo apt-get update -y
@@ -39,6 +39,3 @@ ssh -T git@github.com
 echo ""
 echo "Git setup complete!"
 echo "You can now push to your GitHub repositories using SSH."
-
-# Optional: Clone a repository to test (comment out if not needed)
-# git clone git@github.com:<your-username>/<your-repo>.git
