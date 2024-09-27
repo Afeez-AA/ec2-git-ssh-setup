@@ -53,4 +53,3 @@ If you encounter issues pushing code to GitHub via SSH, check the following:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
